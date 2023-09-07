@@ -1,4 +1,4 @@
-#About CTF
+# About CTF
 In order to celebrate Programmer's and Tester's Day, we have prepared for you a mini-game in the style of Capture the Flag, or CTF.
 
 CTF competitions use specially implemented weak points of the system in order to find the flag.
@@ -9,7 +9,7 @@ The competition consists of four tasks from the Web category. The solution to a 
 
 If you solve just one, two or three tasks you can also send us information how you solved them and win a prize!
 
-#Rules
+# Rules
 
 1. Any employed person can participate in the competition - both permanent employees and interns. The only permitted form of participation is individual participation.
 2. It is forbidden to provide answers and methods of solving puzzles to other participants of the Competition. 
